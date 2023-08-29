@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * sum_listint - function that returns the sum of all the data (n) of a listint_t linked list
+ * sum_listint - function that returns the sum of all the data (n) of a listint_t
  *
  * @head: head of list
  *
